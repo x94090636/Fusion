@@ -1,0 +1,53 @@
+20201004T102244 I Version : 2.0.8950
+20201004T102244 I UTC offset : -6
+20201004T102244 I Loading configuration from:C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Fusion 360.server.config
+20201004T102246 I SLM: device id = 5f5b675d-db2c-fe02-908d-67613a0bd83c
+20201004T102246 I SLM: Initialized
+20201004T102246 I fireApplicationActivate: 0
+20201004T102246 I fireApplicationActivate: done
+20201004T102246 I WorkflowTrackManager Initialized with:0 items
+20201004T102246 I Disk capacity: 952,809MB Disk free: 253,734MB Percentage free: 26 UIThread: no Time: 0.00121s
+20201004T102246 I AnalyticItemCounts Initialized with:0 items
+20201004T102246 I 	searchAndLoad exec path: C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Fusion360.exe
+20201004T102246 I PROXY: WindowsProxyOptionId set to Automatic		ThreadID: 9900, Function: `anonymous-namespace'::logProxyOpIfChanged, Line: 920
+20201004T102246 W PROXY: failed to query IE proxy configuration - The Proxy Auto-configuration URL was not found.
+
+20201004T102246 I PROXY: proxy server set to DIRECT		ThreadID: 9900, Function: `anonymous-namespace'::logProxyUsedIfChanged, Line: 947
+20201004T102247 I Request(https://a360-statusdashboard.s3.amazonaws.com/autodesk_maintenance.json) - workflow:HTTPClient attempt:0 status:200
+20201004T102247 I Request(https://ui-dls360.autodesk.com/fusion/version.txt) - workflow: attempt:0 status:200
+20201004T102247 I Request(https://ui-dls360.autodesk.com/fusion/maintenace_services.txt) - workflow:HTTPClient attempt:0 status:200
+20201004T102248 I SYNHUB: Loading config files in directory C:/Users/Tommy/AppData/Roaming/Autodesk/Synergy
+
+20201004T102248 I SYNHUB: Loading config file C:/Users/Tommy/AppData/Roaming/Autodesk/Synergy/NLauncher.syncfg
+
+20201004T102249 I LaunchDarkly client initialization process is finished successfully!		ThreadID: 11456, Function: Ns::LDCSDKWrapper::initLDCallback, Line: 321
+20201004T102249 I LD CSDK for type Global was initialized with a total time of 0.000007 seconds		ThreadID: 12412, Function: Ns::CSDKLDFeatureFlagsManager::getFlagValue, Line: 135
+20201004T102250 I Load Feature Toggle Xml:C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Fusion/Server/Fusion/Resources/FeatureToggle/FeatureToggle.xml
+20201004T102255 I Load Feature Toggle Xml:C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/FusionDoc/Server/FusionDoc/Resources/FeatureToggle/FeatureToggle.xml
+20201004T102257 I C:\Users\Tommy\AppData\Local\Autodesk\webdeploy\production\4143a7d9c7cd58a0f86968fd3809be3e34945ca1\Applications\Simulation\SimCommon10.dll		ThreadID: 3160, Function: DllMain, Line: 22
+20201004T102257 I Process attach		ThreadID: 3160, Function: DllMain, Line: 23
+20201004T102302 I C:\Users\Tommy\AppData\Local\Autodesk\webdeploy\production\4143a7d9c7cd58a0f86968fd3809be3e34945ca1\Applications\CAM360\SimIdealizations10.dll		ThreadID: 3160, Function: DllMain, Line: 16
+20201004T102302 I Process attach		ThreadID: 3160, Function: DllMain, Line: 17
+20201004T102316 I Toolbar loader: Stopping...
+20201004T102316 I Toolbar loader: Stopped
+20201004T102316 I ***startSession: BEGIN
+20201004T102316 I the maintenance window is OFF
+20201004T102316 I getEntitlement
+20201004T102316 I authenticate:begin
+20201004T102316 I login start
+20201004T102316 I AnalyticItemCounts Terminating with:0 items
+20201004T102316 I AnalyticItemCounts Initialized with:0 items
+20201004T102316 I WorkflowTrackManager Terminating with:0 items
+20201004T102316 I WorkflowTrackManager Initialized with:0 items
+20201004T102316 I login end 0
+20201004T102316 I Autosave background thread started with saveTime: 5
+20201004T102316 I LaunchDarkly client initialization process is not finished successfully!		ThreadID: 12412, Function: Ns::LDCSDKWrapper::initLDCallback, Line: 325
+20201004T102316 I Request(https://js.prd.fusionapi.autodesk.com/fusion360-runtime-config/config.json) - workflow:HTTPClient attempt:0 status:200
+20201004T102316 I SLM: Enabled (Production)
+20201004T102316 I SLM: Start session deviceId=5f5b675d-db2c-fe02-908d-67613a0bd83c deviceName=DESKTOP-OVO3LFL
+20201004T102316 I Workflow start: SLM_startSession 1-5f79f6f4-f14299d06dae4921a69afc1c
+20201004T102316 I LaunchDarkly client initialization process is finished successfully!		ThreadID: 11456, Function: Ns::LDCSDKWrapper::initLDCallback, Line: 321
+20201004T102316 I LD CSDK for type Nonhub was initialized with a total time of 0.328141 seconds		ThreadID: 12412, Function: Ns::CSDKLDFeatureFlagsManager::getFlagValue, Line: 135
+20201004T102316 I LD CSDK for type Nonhub was initialized with a total time of 0.000001 seconds		ThreadID: 12412, Function: Ns::CSDKLDFeatureFlagsManager::getFlagValue, Line: 135
+20201004T102317 I Request(https://f360sc-p-ue1.api.cosv2-p-ue1-dn.autodesk.com/api/v1/sessions) - workflow:SLM_startSession attempt:0 status:200
+20201004T102317 I SLM: session = 37906273

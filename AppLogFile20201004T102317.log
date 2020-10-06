@@ -1,0 +1,164 @@
+20201004T102318 E 1601828598012 1601828598571 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102318 E Server Verification Warning - Unable to validate a security certificate. Many times this can be triggered by proxy servers, security software, or out of date OS patches.
+
+Please visit the "Network/Server Verification" preference page if you would like to change this setting. - Click here to view warning message.
+20201004T102318 W SSLVerifyPeer Warning calling: https://login.autodesk360.com/login/api/system/info
+20201004T102318 E 1601828598608 1601828598654 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102318 I Request(https://login.autodesk360.com/login/api/system/info) - workflow:HTTPClient attempt:0 status:0
+20201004T102318 I BrowserCache file size: 0 KB, "C:\Users\Tommy\AppData\Local\Autodesk\Autodesk Fusion 360\CLEZPWGL4LVL/NsCloudBrowserCache.dat"
+20201004T102318 I BrowserCache: number of thumbnails: 0
+20201004T102318 I Workflow start: /v1/licenses 1-5f79f6f6-250e3080a28145c8bf559e88
+20201004T102321 I Request(https://api.v3license.access.clic.autodesk.com/v1/licenses) - workflow:/v1/licenses attempt:0 status:200
+20201004T102322 I Request(https://metering.autodesk.com/api/accounts/v1/CLEZPWGL4LVL) - workflow:HTTPClient attempt:0 status:200
+20201004T102323 I Request(https://frv.ui-dls360.autodesk.com/api/v1/checkAccess) - workflow:HTTPClient attempt:0 status:200
+20201004T102323 I authenticate:end
+20201004T102323 I succesfully authenticated
+20201004T102323 I TOSS accepted
+20201004T102323 I Hub type: personal
+20201004T102323 I CheckingEntitlements
+20201004T102323 I  UserType: Hobbyist EntitlementType: Subscription
+20201004T102323 I Entitlement changed
+20201004T102323 D getHubStatusFromJson-SSLHandshakeErrorJSON: 
+20201004T102323 D SitesAPIResult (Bad DNS Server): 
+20201004T102323 I Hub  hasAPersonalSite=0, hasTeamHub=0, eHubStatus=4, isEntitled=1
+20201004T102323 I Migrate Options
+20201004T102323 I Load Cloud Options
+20201004T102325 I Reloaded option files: C:/Users/Tommy/AppData/Roaming/Autodesk/Neutron Platform/Options/CLEZPWGL4LVL/NGlobalOptions.xml
+20201004T102325 I ***startSession: END
+20201004T102325 I GAThread::queueReport the sending thread started
+20201004T102326 I Graphics Card: NVIDIA GeForce GTX 1050 Ti, Rating: Unknown, Workarounds: 0 
+20201004T102326 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102326 I OGS Device: VirtualDeviceDx11
+20201004T102326 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102326 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102326 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102326 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102327 I 			Running Add-In Name:100KGarages Path:C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Api/InternalAddins/100KGarages/100KGarages.py Internal:1
+20201004T102327 I 			Running Add-In Name:ElectronicsPackageGenerator Path:C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Api/InternalAddins/ElectronicsPackageGenerator/ElectronicsPackageGenerator.py Internal:1
+20201004T102329 I 			Running Add-In Name:parts4cad Path:C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Api/InternalAddins/parts4cad/parts4cad.py Internal:1
+20201004T102329 I Local cache scan: 0.0007198 seconds, 0 items
+20201004T102329 I DownloadManager::started
+20201004T102329 I savingVersionLaunched		ThreadID: 3160, Function: Nu::WhatsNewBannerCmdDef::applicationReady, Line: 108
+20201004T102329 I last version: 2.0.8950		ThreadID: 3160, Function: Nu::UIApplication::saveVersionLaunched, Line: 86
+20201004T102329 I current version: 2.0.8950		ThreadID: 3160, Function: Nu::UIApplication::saveVersionLaunched, Line: 87
+20201004T102329 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102329 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102334 I JSManager - extracted archive to C:\Users\Tommy\AppData\Local\Temp\Neutron\587b57c7-d827-40a5-9879-14d4c413d8a3
+20201004T102334 I Dashboard Size: initial size: width 100 height 30
+20201004T102334 I Dashboard Size: use parent size: width 0 height 1027
+20201004T102334 I Dashboard Size createWebControl parent area - width 0 height: 1027
+20201004T102334 E 1601828613655 1601828613706 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102334 I Request(https://login.autodesk360.com/login/api/system/info) - workflow:HTTPClient attempt:0 status:0
+20201004T102334 E 1601828613751 1601828613803 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102334 I Request(https://login.autodesk360.com/login/api/system/info) - workflow:HTTPClient attempt:0 status:0
+20201004T102338 I JSManager - extracted archive to C:\Users\Tommy\AppData\Local\Temp\Neutron\c0e482f5-5545-4d44-951b-b646034a3835
+20201004T102339 I Live update: start update check.
+20201004T102339 I Live update: Skip the first Etag check
+20201004T102339 I Live update: Start update process in Streamer side.
+20201004T102339 I fireApplicationDeactivate: 0
+20201004T102339 I fireApplicationDeactivate: done
+20201004T102339 I fireApplicationActivate: 0
+20201004T102339 I fireApplicationActivate: done
+20201004T102339 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102339 I Workflow start: /v1/licenses 1-5f79f70a-8c1707711d514b4bb94ceaa4
+20201004T102340 I Request(https://api.v3license.access.clic.autodesk.com/v1/licenses) - workflow:/v1/licenses attempt:0 status:200
+20201004T102342 I Request(https://metering.autodesk.com/api/accounts/v1/CLEZPWGL4LVL) - workflow:HTTPClient attempt:0 status:200
+20201004T102342 I Request(https://frv.ui-dls360.autodesk.com/api/v1/checkAccess) - workflow:HTTPClient attempt:0 status:200
+20201004T102342 I Workflow start: /v1/license-check 1-5f79f70d-9050c72e80b549ba91ef89d8
+20201004T102342 I Workflow start: /v1/license-check 1-5f79f70d-a488ad33448e489eb9f33ba6
+20201004T102342 I Workflow start: /v1/license-check 1-5f79f70d-b9cac4c95438482fb1a9889b
+20201004T102342 I Tool library url: file:///C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/Applications/CAM360/tool-library/index.html?language=en-US&serverType=FUSION_DESKTOP
+
+20201004T102342 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102342 I ServicesHealthStatus: Health Status changed from unknown to operational
+20201004T102342 I Live update: Start pending updates check.
+20201004T102342 I Live update: Update is in progress.
+20201004T102343 I Request(https://metering.autodesk.com/api/price/v1/CLEZPWGL4LVL/fusion360manufacturingext?format=json) - workflow:HTTPClient attempt:0 status:200
+20201004T102343 E 1601828622024 1601828622259 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102343 I Request(https://login.autodesk360.com/login/api/system/info) - workflow:HTTPClient attempt:0 status:0
+20201004T102343 I OnlineStatus onlineSwitchFailed: WIP down. 
+20201004T102343 I OnlineStatus OfflineUI maintenance
+20201004T102343 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102343 E MessageBox Error: Sorry, Fusion was unable to save sufficient data for Offline mode and needs to go Online. Please make sure you have a working Internet connection to continue.
+20201004T102343 I fireApplicationDeactivate: 0
+20201004T102343 I fireApplicationDeactivate: done
+20201004T102343 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102343 I (total 58.972s diff 58.972s) 	PERF: DashboardReady 58.9724s (time from start), version: 2.0.8950
+20201004T102343 I Request(https://api.v3license.access.clic.autodesk.com/v1/license-check) - workflow:/v1/license-check attempt:0 status:200
+20201004T102343 I Request(https://api.v3license.access.clic.autodesk.com/v1/license-check) - workflow:/v1/license-check attempt:0 status:200
+20201004T102343 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102343 I Request(https://metering.autodesk.com/api/price/v1/CLEZPWGL4LVL/fusion360manufacturingext?format=json) - workflow:HTTPClient attempt:0 status:200
+20201004T102344 I Request(https://api.v3license.access.clic.autodesk.com/v1/license-check) - workflow:/v1/license-check attempt:0 status:200
+20201004T102349 I fireApplicationActivate: 0
+20201004T102349 I fireApplicationActivate: done
+20201004T102352 I fireApplicationDeactivate: 0
+20201004T102352 I fireApplicationDeactivate: done
+20201004T102356 I fireApplicationActivate: 0
+20201004T102356 I fireApplicationActivate: done
+20201004T102357 I Live update: Start pending updates check.
+20201004T102357 I Live update: Update is in progress.
+20201004T102357 E 1601828636923 1601828636974 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102357 I Request(https://login.autodesk360.com/login/api/system/info) - workflow:HTTPClient attempt:0 status:0
+20201004T102357 I OnlineStatus onlineSwitchFailed: WIP down. 
+20201004T102357 I OnlineStatus OfflineUI maintenance
+20201004T102357 E MessageBox Error: Cannot switch to online mode either. Please check your internet connection. Application will exit now.
+20201004T102401 I fireApplicationDeactivate: 0
+20201004T102401 I fireApplicationDeactivate: done
+20201004T102404 I fireApplicationActivate: 0
+20201004T102404 I fireApplicationActivate: done
+20201004T102406 I fireApplicationDeactivate: 0
+20201004T102406 I fireApplicationDeactivate: done
+20201004T102409 I fireApplicationActivate: 0
+20201004T102409 I fireApplicationActivate: done
+20201004T102409 I OfflineFileCache: get g^[Dd]AGCFUBgI		ThreadID: 3160, Function: getCachedTime, Line: 177
+20201004T102409 I OnlineStatus cannot go offline: Can't go offline. 
+20201004T102410 I Cloud Libraries: User has no access to create Assets project.
+20201004T102410 I Cloud Libraries: User has no access to create Assets project.
+20201004T102410 I Cloud Libraries: User has no access to create Assets project.
+20201004T102410 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102410 I Saved option file: C:/Users/Tommy/AppData/Roaming/Autodesk/Neutron Platform/Options/NMachineSpecificOptions.xml
+20201004T102410 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102410 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102410 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102410 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102411 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102411 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102411 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102411 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102412 E 1601828650723 1601828651260 GET https://login.autodesk360.com/login/api/system/info 35 schannel: next InitializeSecurityContext failed: SEC_E_ILLEGAL_MESSAGE (0x80090326) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+20201004T102412 I Request(https://login.autodesk360.com/login/api/system/info) - workflow:HTTPClient attempt:0 status:0
+20201004T102412 I : urlChanged: file:///C:/Users/Tommy/AppData/Local/Autodesk/webdeploy/production/4143a7d9c7cd58a0f86968fd3809be3e34945ca1/FusionCDEHostApps/team-switcher/index.html?locale=en-US
+20201004T102412 I Executing exit command
+20201004T102412 I Running deferred session release tasks
+20201004T102412 I Signal shutdown to script manager
+20201004T102412 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102412 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:200
+20201004T102412 I Script manager shut down done
+20201004T102412 I Exit now
+20201004T102412 I Start QTApplication::exit
+20201004T102412 I Done QTApplication::exit
+20201004T102412 I Exit command end
+20201004T102412 E 1601828651578 1601828651604 POST https://ssl.google-analytics.com/collect 42 Callback aborted
+20201004T102412 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:0
+20201004T102412 E GAThread::sendReport failed to send this record
+20201004T102412 I fireApplicationClosing: 1
+20201004T102412 E 1601828651606 1601828651606 POST https://ssl.google-analytics.com/collect 42 Callback aborted
+20201004T102412 I Request(https://ssl.google-analytics.com/collect) - workflow:HTTPClient attempt:0 status:0
+20201004T102412 E GAThread::sendReport failed to send this record
+20201004T102412 I fireApplicationClosing: done
+20201004T102412 I SYNHUB: Finalizing SynHub.
+
+20201004T102412 I SYNHUB: ...done finalizing SynHub.
+
+20201004T102414 I DownloadManager::stopped
+20201004T102414 I Deleting files that are older than 15 days from the cache
+20201004T102415 I SLM: Shutdown
+20201004T102415 I fireApplicationClosing: 2
+20201004T102415 I fireApplicationClosing: done
+20201004T102415 I GAThread::stop wait for the sending thread to exit
+20201004T102415 I GAThread::stop sending thread exits now, stats:GAThread=>Pending:0, Running:0, Sent:23, Fail:2, 			
+ Throttle:0, SessionIdle:3.03027, SessionSent:25 			
+ Limits: SessionLimits:500, ThrottleLimits:50, GATimeout:14400 seconds
+20201004T102415 I GAWrapper terminating:GAWrapper Status=> Network:1, NetworkChangedTimes:0, IgnoredReportsDuringNetworkdown:0, totalReports:25
+20201004T102415 I AnalyticItemCounts Terminating with:0 items
+20201004T102415 I WorkflowTrackManager Terminating with:0 items
